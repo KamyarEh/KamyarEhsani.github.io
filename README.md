@@ -1,3 +1,4 @@
+## About Me
 Hi, I’m Kamyar Ehsani 👋
 
 I’m a freshman Computer Science major at the University of Texas at San Antonio with a strong interest in machine learning and data analysis. Over the summer, I dedicated my time to learning key tools and libraries like Python, Matplotlib, Pandas, NumPy, and Plotly. Although I’m still building my confidence with these technologies, I’m eager to gain more experience and deepen my understanding of them.
