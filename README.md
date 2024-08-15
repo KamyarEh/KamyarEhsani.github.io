@@ -16,18 +16,18 @@ As I progress in my studies and career, I’m committed to learning from each ex
 
 ## Areas of Focus
 
-- **Data Analysis and Visualization**
+**Data Analysis and Visualization**
 
 I have experience working with Python libraries such as NumPy, SciPy, Pandas, Matplotlib, and Plotly to handle data analysis and create visualizations. While I’m still developing my skills, I’m comfortable working with data to extract insights and present them visually.
 
-- **Data Management**
+**Data Management**
 
 I’m familiar with managing data through databases, querying, aggregation, analysis, and visualization. Although I’m still learning, I’m capable of handling various aspects of the data lifecycle.
 
-- **Collaboration and Communication**
+**Collaboration and Communication**
 
 I’m a proactive problem solver who enjoys working with others. I can communicate effectively with both technical and non-technical audiences, and I’m eager to collaborate on projects and learn from the experience.
 
-- **Analytical Skills**
+**Analytical Skills**
 
 I possess strong analytical skills, which I apply to data analysis and problem-solving. While I’m still growing in this area, I’m capable of using data to identify and address issues.
