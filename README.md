@@ -11,6 +11,7 @@ As I progress in my studies and career, I’m committed to learning from each ex
 *   Programming Languages: Python
 *   Data Visualization: Matplotlib, Plotly
 *   Data Manipulation: Pandas, NumPy
+*   Scientific Computibg: SciPy
 *   Machine Learning: Scikit-Learn, TensorFlow
 *   Tools/IDE: Jupyter Notebook, Visual Studio Code (VS Code), Git
 
