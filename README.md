@@ -47,3 +47,5 @@ Expected Graduation: May 2028
 Starting August 2024
 
   I will be participating in a research project at the University of Texas at San Antonio focused on Responsible Data Science for Social Good. The research will cover topics such as addressing societal challenges through data-driven techniques, learning with limited labeled data, and algorithmic fairness. This course aims to help students, including myself, gain deeper knowledge and research experience in these crucial areas.
+
+## Personal Projects
