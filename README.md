@@ -7,6 +7,12 @@ I’m particularly fascinated by the potential of machine learning to solve comp
 
 As I progress in my studies and career, I’m committed to learning from each experience and continuously improving.
 
+## Eduction
+University of Texas at San Antonio
+Bachelor of Science in Computer Science
+Starting: August 2024
+Expected Graduation: May 2028
+
 ## Skills
 *   Programming Languages: Python
 *   Data Visualization: Matplotlib, Plotly
