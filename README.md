@@ -75,3 +75,9 @@ This project demonstrates my proficiency in Python and Pygame, as well as my abi
 ![Alien Invasion Game Screenshot](images/Alien%20Invasion.png)
 
 For a detailed view of the code and further details, please visit the [GitHub repository](https://github.com/KamyarEh/KamyarEhsani.github.io/tree/main).
+
+**Excel Automation with Python: Price Correction and Chart Creation**
+
+This repository contains a Python script that automates the process of applying a 10% discount to prices in an Excel sheet and creating a bar chart to visualize the updated prices. The script uses the openpyxl library to handle the Excel file, making it easy to update and visualize price changes. The modified file is saved with the new data and chart embedded in the sheet.
+
+For a detailed view of the code and further details, please visit the [GitHub repository](https://github.com/KamyarEh/KamyarEhsani.github.io/tree/main).
