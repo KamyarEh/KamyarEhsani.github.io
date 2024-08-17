@@ -81,3 +81,11 @@ For a detailed view of the code and further details, please visit the [GitHub re
 This repository contains a Python script that automates the process of applying a 10% discount to prices in an Excel sheet and creating a bar chart to visualize the updated prices. The script uses the openpyxl library to handle the Excel file, making it easy to update and visualize price changes. The modified file is saved with the new data and chart embedded in the sheet.
 
 For a detailed view of the code and further details, please visit the [GitHub repository](https://github.com/KamyarEh/KamyarEhsani.github.io/tree/main).
+
+**Matplotlib Plot Example**
+
+This repository contains a Python script that demonstrates how to create and customize a plot using the matplotlib library. The script generates a plot of square numbers with customized styles and labels. An image of the resulting plot is included to illustrate the output.
+
+
+
+For a detailed view of the code and further details, please visit the [GitHub repository](https://github.com/KamyarEh/KamyarEhsani.github.io/tree/main).
