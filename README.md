@@ -74,4 +74,4 @@ This project demonstrates my proficiency in Python and Pygame, as well as my abi
 
 ![Alien Invasion Game Screenshot](images/Alien%20Invasion.png)
 
-For a detailed view of the code and further details, please visit the GitHub repository.
+For a detailed view of the code and further details, please visit the [GitHub repository](https://github.com/KamyarEh/KamyarEhsani.github.io/tree/main).
