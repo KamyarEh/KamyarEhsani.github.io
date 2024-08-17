@@ -50,7 +50,7 @@ Starting August 2024
 
 ## Personal Projects
 
-- **Alien Invasion Game**
+**Alien Invasion Game**
   Overview:
 Alien Invasion is a 2D shooter game developed in Python. The objective of the game is to defend the Earth from waves of alien spacecraft by controlling a spaceship and shooting down the invaders. The player earns points for each alien destroyed and progresses through increasingly difficult levels.
 
