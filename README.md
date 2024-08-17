@@ -56,14 +56,14 @@ Alien Invasion is a 2D shooter game developed in Python. The objective of the ga
 
 Technical Details:
 
-	•	Language: Python
-	•	Libraries Used: Pygame for game development, which handles the rendering of graphics, sound effects, and user input.
-	•	Game Features:
-	•	Player Controls: The player can move the spaceship horizontally and shoot bullets to destroy the incoming aliens.
-	•	Scoring System: Players earn points for each alien they successfully destroy, with the score displayed on the screen.
-	•	Level Progression: As players clear waves of aliens, the game advances to higher levels with increasing difficulty, such as   faster alien movement and more complex patterns.
-	•	Collision Detection: Implemented to detect and handle collisions between bullets and aliens, as well as between aliens and   the player’s spaceship.
-	•	Game Over Condition: The game ends when an alien collides with the player’s spaceship or reaches the bottom of the screen.
+- Language: Python
+- Libraries Used: Pygame for game development, which handles the rendering of graphics, sound effects, and user input.
+- Game Features:
+-  Player Controls: The player can move the spaceship horizontally and shoot bullets to destroy the incoming aliens.
+-  Scoring System: Players earn points for each alien they successfully destroy, with the score displayed on the screen.
+-  Level Progression: As players clear waves of aliens, the game advances to higher levels with increasing difficulty, such as   faster alien movement and more complex patterns.
+- Collision Detection: Implemented to detect and handle collisions between bullets and aliens, as well as between aliens and   the player’s spaceship.
+- Game Over Condition: The game ends when an alien collides with the player’s spaceship or reaches the bottom of the screen.
 
 Challenges:
 During development, I faced challenges related to optimizing performance as the number of entities on the screen increased, as well as fine-tuning the collision detection system to ensure smooth gameplay.
