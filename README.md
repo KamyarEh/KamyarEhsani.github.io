@@ -72,4 +72,6 @@ During development, I faced challenges related to optimizing performance as the 
 Relevance:
 This project demonstrates my proficiency in Python and Pygame, as well as my ability to handle the complexities of game development. It also reflects my skills in problem-solving, project management, and attention to detail.
 
+![Alien Invasion Game Screenshot](images/Alien%20Invasion.png)
+
 For a detailed view of the code and further details, please visit the GitHub repository.
