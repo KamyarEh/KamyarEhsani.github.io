@@ -86,6 +86,6 @@ For a detailed view of the code and further details, please visit the [GitHub re
 
 This repository contains a Python script that demonstrates how to create and customize a plot using the matplotlib library. The script generates a plot of square numbers with customized styles and labels. An image of the resulting plot is included to illustrate the output.
 
-
+![square Numbers Plot](images/Figure_1.png)
 
 For a detailed view of the code and further details, please visit the [GitHub repository](https://github.com/KamyarEh/KamyarEhsani.github.io/tree/main).
